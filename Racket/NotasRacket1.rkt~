@@ -257,8 +257,6 @@ FUNfact... fun? get it? Podemos definir nuestras propias formas especiales usand
 (define (divisible? n i)
   (= 0 (modulo n i)))
 
-;(divisible? 10 5)
-
 
 ;no-divisible
 

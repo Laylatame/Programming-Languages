@@ -1,7 +1,7 @@
 %Tarea 8. Prolog
 %Layla Tame A01192934
 
-% 1. Elemento K
+% 1. Elemento Khal
 % Escribe una regla que recibe una variable K, una lista y una variable X.
 
 elementK(K, L, X):- auxElement(K, L, 0, X).
